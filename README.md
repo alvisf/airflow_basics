@@ -10,7 +10,10 @@ make sure you have docker and docker compose on your system
 
 for airflow gui go to localhost:8080
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rGOITC9cgCk/0.jpg)](https://www.youtube.com/watch?v=rGOITC9cgCk)
+
 # What I have learnt
 - Creating data pipeline
 - Setiting up airflow 
 - creating individual tasks
+
